@@ -22,4 +22,26 @@ Aluno: Vinicius Paiva
 
 **Conclusão**
 - Código que trabalha com conceitos importantes da linguagem C#, possuindo etapas simples para sua confecção e possibilidade de futuros aperfeiçoamentos.
-  
+
+
+### Cronômetro Simples
+Aluno: Luiz Eduardo Pereira Brandão
+
+**O que foi utilizado**
+- Biblioteca ``System`` e ``System.Threading`` 
+- Variáveis
+- Loop ``for``
+- Validação com ``TryParse``
+- Estrutura ``TimeSpan`` 
+
+**Etapas implementadas**
+- Pede para o usuario inserir o tempo em segundos
+- Inicia a conversão para tempo em número inteiro
+- Loop com For para que o tempo começe diminuindo
+
+**Backlog**
+- Futuras Implementações:
+1. Permitir que o usuário insira horas, minutos, e segundos separadamente
+
+**Conclusão**
+- Codígo na linguagem C# possuindo aprimoramento mediano.

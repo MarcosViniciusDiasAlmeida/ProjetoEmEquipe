@@ -1,0 +1,14 @@
+C:\Users\Alunos\Music\CronometroSimples\bin\Debug\net8.0\CronometroSimples.exe
+C:\Users\Alunos\Music\CronometroSimples\bin\Debug\net8.0\CronometroSimples.deps.json
+C:\Users\Alunos\Music\CronometroSimples\bin\Debug\net8.0\CronometroSimples.runtimeconfig.json
+C:\Users\Alunos\Music\CronometroSimples\bin\Debug\net8.0\CronometroSimples.dll
+C:\Users\Alunos\Music\CronometroSimples\bin\Debug\net8.0\CronometroSimples.pdb
+C:\Users\Alunos\Music\CronometroSimples\obj\Debug\net8.0\CronometroSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Music\CronometroSimples\obj\Debug\net8.0\CronometroSimples.AssemblyInfoInputs.cache
+C:\Users\Alunos\Music\CronometroSimples\obj\Debug\net8.0\CronometroSimples.AssemblyInfo.cs
+C:\Users\Alunos\Music\CronometroSimples\obj\Debug\net8.0\CronometroSimples.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Music\CronometroSimples\obj\Debug\net8.0\CronometroSimples.dll
+C:\Users\Alunos\Music\CronometroSimples\obj\Debug\net8.0\refint\CronometroSimples.dll
+C:\Users\Alunos\Music\CronometroSimples\obj\Debug\net8.0\CronometroSimples.pdb
+C:\Users\Alunos\Music\CronometroSimples\obj\Debug\net8.0\CronometroSimples.genruntimeconfig.cache
+C:\Users\Alunos\Music\CronometroSimples\obj\Debug\net8.0\ref\CronometroSimples.dll
