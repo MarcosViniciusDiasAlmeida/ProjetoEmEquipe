@@ -1,0 +1,15 @@
+c:\Users\Alunos\Desktop\ProjetoEmEquipe\GeradorDeSenhasAleatorias\obj\Debug\net8.0\GeradorDeSenhasAleatorias.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\Desktop\ProjetoEmEquipe\GeradorDeSenhasAleatorias\obj\Debug\net8.0\GeradorDeSenhasAleatorias.AssemblyInfoInputs.cache
+c:\Users\Alunos\Desktop\ProjetoEmEquipe\GeradorDeSenhasAleatorias\obj\Debug\net8.0\GeradorDeSenhasAleatorias.AssemblyInfo.cs
+c:\Users\Alunos\Desktop\ProjetoEmEquipe\GeradorDeSenhasAleatorias\obj\Debug\net8.0\GeradorDeSenhasAleatorias.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\Desktop\ProjetoEmEquipe\GeradorDeSenhasAleatorias\obj\Debug\net8.0\GeradorDeSenhasAleatorias.sourcelink.json
+C:\Users\Alunos\Desktop\ProjetoEmEquipe\GeradorDeSenhasAleatorias\bin\Debug\net8.0\GeradorDeSenhasAleatorias.exe
+C:\Users\Alunos\Desktop\ProjetoEmEquipe\GeradorDeSenhasAleatorias\bin\Debug\net8.0\GeradorDeSenhasAleatorias.deps.json
+C:\Users\Alunos\Desktop\ProjetoEmEquipe\GeradorDeSenhasAleatorias\bin\Debug\net8.0\GeradorDeSenhasAleatorias.runtimeconfig.json
+C:\Users\Alunos\Desktop\ProjetoEmEquipe\GeradorDeSenhasAleatorias\bin\Debug\net8.0\GeradorDeSenhasAleatorias.dll
+C:\Users\Alunos\Desktop\ProjetoEmEquipe\GeradorDeSenhasAleatorias\bin\Debug\net8.0\GeradorDeSenhasAleatorias.pdb
+C:\Users\Alunos\Desktop\ProjetoEmEquipe\GeradorDeSenhasAleatorias\obj\Debug\net8.0\GeradorDeSenhasAleatorias.dll
+C:\Users\Alunos\Desktop\ProjetoEmEquipe\GeradorDeSenhasAleatorias\obj\Debug\net8.0\refint\GeradorDeSenhasAleatorias.dll
+C:\Users\Alunos\Desktop\ProjetoEmEquipe\GeradorDeSenhasAleatorias\obj\Debug\net8.0\GeradorDeSenhasAleatorias.pdb
+C:\Users\Alunos\Desktop\ProjetoEmEquipe\GeradorDeSenhasAleatorias\obj\Debug\net8.0\GeradorDeSenhasAleatorias.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\ProjetoEmEquipe\GeradorDeSenhasAleatorias\obj\Debug\net8.0\ref\GeradorDeSenhasAleatorias.dll
