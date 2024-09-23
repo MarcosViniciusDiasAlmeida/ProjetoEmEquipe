@@ -17,8 +17,8 @@ Aluno: Vinicius Paiva
 
 **Backlog**
 - Futuras Implementações:
-    1. Assegurar que o código gere pelo menos um caracter maíusculo, minúsculo e numérico
-    2. Gerar caracteres especiais
+1.     Assegurar que o código gere pelo menos um caracter maíusculo, minúsculo e numérico
+2.     Gerar caracteres especiais
 
 **Conclusão**
 - Código que trabalha com conceitos importantes da linguagem C#, possuindo etapas simples para sua confecção e possibilidade de futuros aperfeiçoamentos.
