@@ -1,0 +1,14 @@
+C:\Users\Alunos\Pictures\Pablo\JogandoDado\bin\Debug\net8.0\JogandoDado.exe
+C:\Users\Alunos\Pictures\Pablo\JogandoDado\bin\Debug\net8.0\JogandoDado.deps.json
+C:\Users\Alunos\Pictures\Pablo\JogandoDado\bin\Debug\net8.0\JogandoDado.runtimeconfig.json
+C:\Users\Alunos\Pictures\Pablo\JogandoDado\bin\Debug\net8.0\JogandoDado.dll
+C:\Users\Alunos\Pictures\Pablo\JogandoDado\bin\Debug\net8.0\JogandoDado.pdb
+C:\Users\Alunos\Pictures\Pablo\JogandoDado\obj\Debug\net8.0\JogandoDado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Pictures\Pablo\JogandoDado\obj\Debug\net8.0\JogandoDado.AssemblyInfoInputs.cache
+C:\Users\Alunos\Pictures\Pablo\JogandoDado\obj\Debug\net8.0\JogandoDado.AssemblyInfo.cs
+C:\Users\Alunos\Pictures\Pablo\JogandoDado\obj\Debug\net8.0\JogandoDado.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Pictures\Pablo\JogandoDado\obj\Debug\net8.0\JogandoDado.dll
+C:\Users\Alunos\Pictures\Pablo\JogandoDado\obj\Debug\net8.0\refint\JogandoDado.dll
+C:\Users\Alunos\Pictures\Pablo\JogandoDado\obj\Debug\net8.0\JogandoDado.pdb
+C:\Users\Alunos\Pictures\Pablo\JogandoDado\obj\Debug\net8.0\JogandoDado.genruntimeconfig.cache
+C:\Users\Alunos\Pictures\Pablo\JogandoDado\obj\Debug\net8.0\ref\JogandoDado.dll
