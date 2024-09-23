@@ -1,6 +1,6 @@
 # ProjetoEmEquipe
 
-## Gerador de Senhas Aleatórias
+### Gerador de Senhas Aleatórias
 Aluno: Vinicius Paiva
 
 **O que foi utilizado**
