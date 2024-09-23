@@ -21,6 +21,5 @@ Aluno: Vinicius Paiva
     2. Gerar caracteres especiais
 
 **Conclusão**
-Código que trabalha com conceitos importantes da linguagem C#, possuindo etapas simples para  
-sua confecção e possibilidade de futuros aperfeiçoamentos.
+- Código que trabalha com conceitos importantes da linguagem C#, possuindo etapas simples para sua confecção e possibilidade de futuros aperfeiçoamentos.
   
