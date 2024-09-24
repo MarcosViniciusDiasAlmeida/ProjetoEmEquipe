@@ -95,6 +95,33 @@ Neste projeto, implementamos um jogo simples de lançamento de dados em C#. O c�
 Agora você tem um jogo mais interativo e divertido! Se precisar de mais melhorias ou alterações, é só avisar!
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### **Calculadora:**
+Aluno: Chrystian Barbosa
 
 
-    
+Uma simples calculadora de console que executa operações básicas, como adição, subtração, multiplicação e divisão.
+
+**O que foi utilizado**
+
+Console solicita ao usuário a inserir dois valores numéricos.
+
+Em seguida, solicita um operador (+, -, *, /).
+
+**Etapas implementadas**
+
+O código valida se os valores inseridos são numéricos.
+
+Dependendo do operador escolhido, ele realiza a operação correspondente e exibe o resultado.
+
+Para a divisão, há uma verificação para evitar divisão por zero.
+
+**Backlog**
+
+Melhorar a validação de entrada e montar um loop para que não seja necessário rodar o código novamente em caso de valores incorretos inseridos ou as divisóes por zero.
+
+Adicionar mais operações ou funcionalidades, como porcentagens.
+
+**Conclusão**
+
+Este código é apenas uma base para uma calculadora simples, podendo ser aprimorado com mais recursos e validações.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
