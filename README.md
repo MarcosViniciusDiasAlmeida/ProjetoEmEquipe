@@ -68,26 +68,32 @@ Aluno: Luiz Eduardo Pereira Brandão
 - Codígo na linguagem C# possuindo aprimoramento mediano.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-
+### **Escolha da Quantidade de Dados:**
 Aluno: Pablo Eduardo Silva
-
-**Escolha da Quantidade de Dados:**
 
 O usuário pode agora escolher quantos dados deseja lançar (de 1 a 6).
 
-**Validação da Entrada:**
+**O que foi utilizado**
 
+-Validação da Entrada:
 Um loop é usado para garantir que a entrada do usuário esteja dentro do intervalo válido.
 
-**Lançamento dos Dados:**
-
+-Lançamento dos Dados:
 Um loop for é adicionado para lançar os dados escolhidos e exibir o resultado para cada um.
-Agora você tem um jogo mais interativo e divertido! Se precisar de mais melhorias ou alterações, é só avisar!
 
-**Conslusão**
+**Etapas implementadas**
+- Dado é jogado e o programa seleciona um lado do dado aleatório
+- É perguntado se o jogador que jogar novamente
+
+**Backlog**
+- um contador para jogar o dado
+
+**Conclusão**
 
 Neste projeto, implementamos um jogo simples de lançamento de dados em C#. O código permite que o usuário escolha quantos dados deseja lançar, de 1 a 6, e visualiza o resultado de cada lançamento de forma interativa.
 
+Agora você tem um jogo mais interativo e divertido! Se precisar de mais melhorias ou alterações, é só avisar!
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
