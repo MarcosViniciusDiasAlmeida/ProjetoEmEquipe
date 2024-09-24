@@ -1,4 +1,9 @@
-﻿
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{﻿
 Console.Write("Digite o primeiro valor: "); 
 if(double.TryParse(Console.ReadLine(), out double Valor1))
 {
@@ -37,4 +42,6 @@ else
 else
 {
     Console.WriteLine("O valor inserido deve ser Numérico, digite um novo valor");
+}
+        }
 }
