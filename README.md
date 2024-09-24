@@ -90,9 +90,9 @@ Um loop for é adicionado para lançar os dados escolhidos e exibir o resultado 
 
 **Conclusão**
 
-Neste projeto, implementamos um jogo simples de lançamento de dados em C#. O código permite que o usuário escolha quantos dados deseja lançar, de 1 a 6, e visualiza o resultado de cada lançamento de forma interativa.
+- Neste projeto, implementamos um jogo simples de lançamento de dados em C#. O código permite que o usuário escolha quantos dados deseja lançar, de 1 a 6, e visualiza o resultado de cada lançamento de forma interativa.
 
-Agora você tem um jogo mais interativo e divertido! Se precisar de mais melhorias ou alterações, é só avisar!
+- Agora você tem um jogo mais interativo e divertido! Se precisar de mais melhorias ou alterações, é só avisar!
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### **Calculadora:**
@@ -117,11 +117,11 @@ Para a divisão, há uma verificação para evitar divisão por zero.
 
 **Backlog**
 
-Melhorar a validação de entrada e montar um loop para que não seja necessário rodar o código novamente em caso de valores incorretos inseridos ou as divisóes por zero.
+- Melhorar a validação de entrada e montar um loop para que não seja necessário rodar o código novamente em caso de valores incorretos inseridos ou as divisóes por zero.
 
-Adicionar mais operações ou funcionalidades, como porcentagens.
+- Adicionar mais operações ou funcionalidades, como porcentagens.
 
 **Conclusão**
 
-Este código é apenas uma base para uma calculadora simples, podendo ser aprimorado com mais recursos e validações.
+- Este código é apenas uma base para uma calculadora simples, podendo ser aprimorado com mais recursos e validações.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
