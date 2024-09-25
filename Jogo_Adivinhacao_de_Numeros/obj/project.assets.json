@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documents\\LuizEduardo\\ProjetoEmEquipe\\Jogo_Advinhacao_de_Numeros\\Jogo_Advinhacao_de_Numeros.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documents\\LuizEduardo\\ProjetoEmEquipe\\Jogo_Adivinhacao_de_Numeros\\Jogo_Advinhacao_de_Numeros.csproj",
       "projectName": "Jogo_Advinhacao_de_Numeros",
-      "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\LuizEduardo\\ProjetoEmEquipe\\Jogo_Advinhacao_de_Numeros\\Jogo_Advinhacao_de_Numeros.csproj",
+      "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\LuizEduardo\\ProjetoEmEquipe\\Jogo_Adivinhacao_de_Numeros\\Jogo_Advinhacao_de_Numeros.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\LuizEduardo\\ProjetoEmEquipe\\Jogo_Advinhacao_de_Numeros\\obj\\",
+      "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\LuizEduardo\\ProjetoEmEquipe\\Jogo_Adivinhacao_de_Numeros\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
