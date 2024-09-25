@@ -1,0 +1,15 @@
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\ProjetoEmEquipe\Jogo_Advinhacao_de_Numeros\bin\Debug\net8.0\Jogo_Advinhacao_de_Numeros.exe
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\ProjetoEmEquipe\Jogo_Advinhacao_de_Numeros\bin\Debug\net8.0\Jogo_Advinhacao_de_Numeros.deps.json
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\ProjetoEmEquipe\Jogo_Advinhacao_de_Numeros\bin\Debug\net8.0\Jogo_Advinhacao_de_Numeros.runtimeconfig.json
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\ProjetoEmEquipe\Jogo_Advinhacao_de_Numeros\bin\Debug\net8.0\Jogo_Advinhacao_de_Numeros.dll
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\ProjetoEmEquipe\Jogo_Advinhacao_de_Numeros\bin\Debug\net8.0\Jogo_Advinhacao_de_Numeros.pdb
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\ProjetoEmEquipe\Jogo_Advinhacao_de_Numeros\obj\Debug\net8.0\Jogo_Advinhacao_de_Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\ProjetoEmEquipe\Jogo_Advinhacao_de_Numeros\obj\Debug\net8.0\Jogo_Advinhacao_de_Numeros.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\ProjetoEmEquipe\Jogo_Advinhacao_de_Numeros\obj\Debug\net8.0\Jogo_Advinhacao_de_Numeros.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\ProjetoEmEquipe\Jogo_Advinhacao_de_Numeros\obj\Debug\net8.0\Jogo_Advinhacao_de_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\ProjetoEmEquipe\Jogo_Advinhacao_de_Numeros\obj\Debug\net8.0\Jogo_Advinhacao_de_Numeros.sourcelink.json
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\ProjetoEmEquipe\Jogo_Advinhacao_de_Numeros\obj\Debug\net8.0\Jogo_Advinhacao_de_Numeros.dll
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\ProjetoEmEquipe\Jogo_Advinhacao_de_Numeros\obj\Debug\net8.0\refint\Jogo_Advinhacao_de_Numeros.dll
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\ProjetoEmEquipe\Jogo_Advinhacao_de_Numeros\obj\Debug\net8.0\Jogo_Advinhacao_de_Numeros.pdb
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\ProjetoEmEquipe\Jogo_Advinhacao_de_Numeros\obj\Debug\net8.0\Jogo_Advinhacao_de_Numeros.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\ProjetoEmEquipe\Jogo_Advinhacao_de_Numeros\obj\Debug\net8.0\ref\Jogo_Advinhacao_de_Numeros.dll
