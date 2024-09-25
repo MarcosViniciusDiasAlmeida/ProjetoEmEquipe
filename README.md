@@ -151,3 +151,30 @@ Um jogo onde é sorteado um número aleatório e o usuário tenta acertar o núm
 - Codígo na linguagem C#, código simples com fácil entendimento.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
+### Decisão de Almoço
+Aluno: Vinicius Paiva
+
+**O que foi utilizado**
+- Variáveis
+- Biblioteca Random
+- Array de Strings
+- Laço de Repetição ``while`` e ``foreach``
+- Validação com ``TryParse``
+- Função ``next`` da Classe Random
+
+**Etapas implementadas**
+- Inserção classe Random
+- Criação do Array itensMenu, contador, escolha e nmr no escopo global
+- Listagem dos itens em itensMenu
+- Escolha de um prato (uma posição do Array de itensMenu)
+- Loop While para adicionar mais escolhas conforme desejado
+- Geração de um número aleatório para escolher um prato aleatoriamente de acordo com a posiçao no Array itensMenu
+
+**Backlog**
+- Futuras Implementações:
+1. Permitir que o usuário remova pratos da lista de escolhas.
+2. Implementar uma interface gráfica para melhorar a experiência do usuário.
+
+**Conclusão**
+- Código implementa funções simples com objetivo de selecionar pratos ou exibir os mesmos de forma aleatória, permitindo que os usuário explorem o menu e façam suas escolhas.
+ --------------------------------------------------------------------------------------------------------------------------------------------------------- 
