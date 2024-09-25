@@ -125,3 +125,29 @@ Para a divisão, há uma verificação para evitar divisão por zero.
 
 - Este código é apenas uma base para uma calculadora simples, podendo ser aprimorado com mais recursos e validações.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
+### Cronômetro Simples
+Aluno: Luiz Eduardo Pereira Brandão
+
+Um jogo onde é sorteado um número aleatório e o usuário tenta acertar o número.
+
+**O que foi utilizado** 
+- Variáveis
+- Random e randNum.Next
+- Loop ``while``
+- Validação com ``TryParse``
+- Console.ForegroundColor = ConsoleColor.Cor para pintar o código
+- A variável total conta como uma vez digitado um número, ao final é mostrado as tentativas.
+
+**Etapas implementadas**
+- O código sorteia um número aleatório para o usuário acertar, com Random é sorteado um número entre 0 e 100.
+- O número digitado entra em conversão para inteiro.
+- Dicas para o numero digitado, como "Número Acima" e "Número Abaixo".
+-
+
+**Backlog**
+- Código simples sem futuros aprimoramentos.
+
+**Conclusão**
+- Codígo na linguagem C#, código simples com fácil entendimento.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------

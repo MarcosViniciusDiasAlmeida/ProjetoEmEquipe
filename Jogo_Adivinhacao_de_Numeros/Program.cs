@@ -2,7 +2,7 @@
 int total = 0;
 
 Random randNum = new Random();
-int num = randNum.Next(1, 100);
+int num = randNum.Next(1, 101);
 
 while (num != valoraleat)
 {
